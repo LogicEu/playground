@@ -1,5 +1,5 @@
 # playground
 >
-> Growing, simple and modular C codebase
+> Growing, simple, sandboxed and modular C codebase
 >
 > @LogicEu
