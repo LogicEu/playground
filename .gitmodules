@@ -31,3 +31,6 @@
 [submodule "glui"]
 	path = glui
 	url = git@github.com:LogicEu/glui.git
+[submodule "aural"]
+	path = aural
+	url = git@github.com:LogicEu/aural.git

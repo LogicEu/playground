@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cc=gcc
-deps='utopia fract imgtool photon mass glee gleex glui ethnic nano nerv'
+deps='utopia fract imgtool photon mass glee gleex glui ethnic nano nerv aural'
 name=libplayground
 
 inc=(
@@ -30,6 +30,7 @@ lib=(
     -lz
     -lpng
     -ljpeg
+    -lfmod
 )
 
 linux=(

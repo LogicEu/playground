@@ -3,8 +3,8 @@
 CC=gcc
 STD=-std=c99
 WFLAGS=-Wall -Wextra
-SUBLIB=utopia fract imgtool photon mass glee gleex glui ethnic nano nerv
-_DLIB=glfw freetype z png jpeg enet
+SUBLIB=utopia fract imgtool photon mass glee gleex glui ethnic nano nerv aural
+_DLIB=glfw freetype z png jpeg enet fmod
 _BIN=libplayground
 
 IDIR=-Iinclude/
